@@ -9,7 +9,7 @@
  *
  * To be compatible with LinuxPPC and Apple we use the standard Apple
  * SCSI disk partitioning scheme. For more information see:
- * http://developer.apple.com/techpubs/mac/Devices/Devices-126.html#MARKER-14-92
+ * https://web.archive.org/web/20030419094746/http://developer.apple.com/techpubs/mac/Devices/Devices-126.html
  */
 
 #include <common.h>
